@@ -1,0 +1,16 @@
+15
+Pedro Inostroza,27,C1002,2010
+Juan Marchant,22,C1001,2013
+Pamela Aguirre,24,C1001,2014
+Mónica Villanueva,22,C1002,2010
+Ignacio Madariaga,23,C1002,2012
+Camilo Zuñiga,21,C1001,2014
+Alejandro Zurita,25,C1001,2010
+Fernando Condeza,27,C1001,2012
+Andrés Poblete,26,C1001,2014
+Yilun Hernández,29,C1002,2012
+Andrés Pasten,17,C1000,2014
+Andrés Mella,27,C1001,2010
+Alejandro Bustos,29,C1000,2013
+Andrea Muñoz,18,C1002,2014
+Ignacio Rojas,17,C1002,2012
