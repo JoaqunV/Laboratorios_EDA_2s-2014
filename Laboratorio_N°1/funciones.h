@@ -38,7 +38,7 @@ void fibonacci(int n)
     }
     for(indiceAuxiliar = 1; indiceAuxiliar < n; indiceAuxiliar++)
     {
-        int *Puntero = suma(&a, &b, LARGO);
+        int *Puntero = suma(&Valor1, &Valor2, LARGO);
         for(indice=0;indice<LARGO;indice++)
         {
           Valor1[indice] = Valor2[indice];
